@@ -1,0 +1,27 @@
+Basic information
+
+Excitatory neurons: 200
+Inhibitory neurons: 50
+Astrocytes: 107
+Culture area: 750x750x10 micrometers
+Gaussian Sigma: 200
+
+Neuron Network
+
+Maximum amount of NN connections available is 62250.
+On average a neuron is connected to 66.216 other neurons.
+This gives the network connectivity of 26.4864 percent.
+On average the neurons have 213.3275 micrometer long connections.
+The shortest connection was 11 micrometer long.
+The longest connection was 739 micrometer long.
+The most frequent length of connection was 108 micrometer.
+There are 4819 two directional connections between neurons.
+
+Astrocyte Network
+
+On average an astrocyte is connected to 120.7664 nearby excitatory synapses.
+Average gap junction connections between astrocytes is 4.4486.
+The highest gap junction amount is 8 and the lowest 1.
+Average distance between connected astrocytes is 69.186 micrometers.
+424 excitatory synapses were left without an astrocyte.
+This results in 3.177 percent of not astrocyte controlled excitatory synapses.
